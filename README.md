@@ -20,3 +20,19 @@ kidney disease and cerebrovascular disease. The AI model achieved a high predict
 accuracy of 82%, sensitivity of 83%, specificity of 81%, and AUC of 83%. A patient-level assessment of the model’s predictions was performed to investigate
 whether some patients are frequently miss-classified by the model across 500 iterations. This confirmed that all patients were correctly classified in 83% to 91%
 of runs indicating the power of the model to predict the status of the recurrence for every single patient.
+# Conclusions: 
+We reliably identified through AI a personalised patient’s clinical profile combining host, tumour and liver related factors collectively contributing to the
+prediction of HCC recurrence after surgical resection. Notably, some of the identified risk factors such as BMI, metabolic risk factors, alcohol intake, or
+even the extent of the underlying liver disease are potentially reversible or modifiable.
+# Interpretation: 
+Unlike conventional statistical methods, AI can learn complex patterns and accordingly consider all variables that could potentially be dismissed by
+conventional statistics if they do not meet the set threshold value (P<0.05). In this study, AI algorithm reliably allowed identification of individualised
+patient profiling variables that act synergistically to increase the risk of HCC recurrence post-surgical resection.  This approach is important in clinical
+practice as it can guide developing personalised preventative strategies to reduce the risk of HCC recurrence. 
+
+# Code:
+The code is implemented in MATLAB R2020b, and the saved result can be found in the shared [link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing).
+
+
+# Reference: 
+ 

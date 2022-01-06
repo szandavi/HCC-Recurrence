@@ -31,7 +31,7 @@ patient profiling variables that act synergistically to increase the risk of HCC
 practice as it can guide developing personalised preventative strategies to reduce the risk of HCC recurrence. 
 
 # Code:
-The code is implemented in MATLAB R2020b, and the saved results can be found in the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing). Note that it is required to download "Final_RF_10Fold_365.mat" and "Final_SVM_10Fold_SelectedFeatures.mat" from the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing) if it is needed executing \textbf{"Result.m"}. 
+The code is implemented in MATLAB R2020b, and the saved results can be found in the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing). Note that it is required to download *Final_RF_10Fold_365.mat* and *Final_SVM_10Fold_SelectedFeatures.mat* from the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing) if you have a plan to run *Result.m* without running *main.m* and *main_selectedFeatures.m*. 
 
 
 # Reference: 

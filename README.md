@@ -31,7 +31,7 @@ patient profiling variables that act synergistically to increase the risk of HCC
 practice as it can guide developing personalised preventative strategies to reduce the risk of HCC recurrence. 
 
 # Code:
-The code is implemented in MATLAB R2020b, and the saved result can be found in the shared [link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing).
+The code is implemented in MATLAB R2020b, and the saved results can be found in the shared [link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing).
 
 
 # Reference: 

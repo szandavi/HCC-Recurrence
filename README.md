@@ -1,3 +1,6 @@
+# Pipeline
+
+
 # Background
 Artificial intelligence (AI) has recently gathered significant interest in the field of predictive medicine. We aimed to apply AI to comprehensive clinical datasets to develop and validate an accurate AI model for predicting the risk of HCC recurrence 1-year post-surgical resection. 
 

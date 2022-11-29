@@ -15,8 +15,5 @@ A total of 664 patients with greater than 365 days of follow-up after surgical r
 AI models reliably identified a personalised profile combining a combination of variables that act synergistically to increase HCC recurrence risk. Notably, some of the identified risk factors, such as metabolic risk factors, alcohol intake, or even the underlying aetiology of liver disease, are potentially reversible or modifiable, hence inviting interventions to disrupt the network supporting hepatocarcinogenesis. Therefore, AI predictive models have the potential to significantly benefit our clinical practice for personalised risk stratification and mitigation. 
 
 # Code:
-The code is implemented in MATLAB R2020b, and the saved results can be found in the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing). Note that it is required to download *Final_RF_10Fold_365.mat* and *Final_SVM_10Fold_SelectedFeatures.mat* from the shared [Link](https://drive.google.com/file/d/1dhKK-0V2vRhIaFg137MwqsDUFUMlJcK9/view?usp=sharing) if you have a plan to run *Result.m* without running *main.m* and *main_selectedFeatures.m*. 
+The code is implemented in MATLAB R2020b, and Matlab apps for this application can be found in */Code/Apps*. Also, raw data and processed data for MLP model can be found in */Code*.
 
-
-# Reference: 
- 
